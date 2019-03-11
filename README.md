@@ -1,4 +1,4 @@
-# AlexYack's github.io Page
+# Alexander's Homepage
 
 Here you can find my repositories:
 
