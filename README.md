@@ -9,3 +9,5 @@ Here you can find my repositories:
 [ClipboardMonitor](/ClipboardMonitor) - Clipboard monitoring utility 
 
 [CredentialProviders](/CredentialProviders) - Credential providers demo set 
+
+[BluetoothConfig](/BluetoothConfig) - HC-05 Bluetooth Module Config Tool
