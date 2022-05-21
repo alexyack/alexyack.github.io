@@ -11,3 +11,5 @@ Here you can find my repositories:
 [CredentialProviders](/CredentialProviders) - Credential providers demo set 
 
 [BluetoothConfig](/BluetoothConfig) - HC-05 Bluetooth Module Config Tool
+
+[AssemblyTester](/AssemblyTester) - Test an Assembly is a real assembly, resource or proxy.
