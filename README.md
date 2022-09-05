@@ -13,3 +13,5 @@ Here you can find my repositories:
 [BluetoothConfig](/BluetoothConfig) - HC-05 Bluetooth Module Config Tool
 
 [AssemblyTester](/AssemblyTester) - Test an Assembly is a real assembly, resource or proxy.
+
+Also you can found me at [LinkedIn](https://www.linkedin.com/in/aleksanderyakovlev/?locale=en_US) abd [StackOverflow](https://stackoverflow.com/users/3868464/alexander) sites.
