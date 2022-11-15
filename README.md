@@ -14,4 +14,4 @@ Here you can find my repositories:
 
 [AssemblyTester](/AssemblyTester) - Test an Assembly is a real assembly, resource or proxy.
 
-Also you can find me at [LinkedIn](https://www.linkedin.com/in/aleksanderyakovlev/?locale=en_US) abd [StackOverflow](https://stackoverflow.com/users/3868464/alexander) sites.
+Also you can find me at [LinkedIn](https://www.linkedin.com/in/aleksanderyakovlev/?locale=en_US) and [StackOverflow](https://stackoverflow.com/users/3868464/alexander) sites.
